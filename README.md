@@ -1,7 +1,5 @@
 Conceitos da programação utilizados:
 
-Obs: Manter o Menu.txt no mesmo diretório que o arquivo executável .jar, para que tudo funcione como deveria.
-
 - Interface Gráfica (GUI) e Interatividade com o usuário
 - Leitura de Arquivos
 - Manipulação de Strings
@@ -11,5 +9,8 @@ Obs: Manter o Menu.txt no mesmo diretório que o arquivo executável .jar, para 
 - Recursividade e modularização
 - Manipulação de Matrizes
 - Randomização
+
+Como "instalar":
+Baixe os arquivos "LogicaJava.jar" e "menu.txt", mantenha ambos no mesmo diretório ("pasta do computador") e inicie abrindo o arquivo LogicaJava
 
 Exercícios por: Ricardo Satoshi.
