@@ -12,5 +12,6 @@ Conceitos da programação utilizados:
 
 Como "instalar":
 Baixe os arquivos "LogicaJava.jar" e "menu.txt", mantenha ambos no mesmo diretório ("pasta do computador") e inicie abrindo o arquivo LogicaJava
+OBS!!! Necessário JAVA 21 
 
 Exercícios por: Ricardo Satoshi.
